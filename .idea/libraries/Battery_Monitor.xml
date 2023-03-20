@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Battery_Monitor">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/Battery_Monitor.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
